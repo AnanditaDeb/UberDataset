@@ -1,0 +1,8 @@
+"Day Of Week","Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"Monday","28","Brookline, MA","885","Downtown Crossing, Boston, MA","1/1/2020 - 3/31/2020, Daily Average",1256,939,1680
+"Tuesday","28","Brookline, MA","885","Downtown Crossing, Boston, MA","1/1/2020 - 3/31/2020, Daily Average",1319,1005,1732
+"Wednesday","28","Brookline, MA","885","Downtown Crossing, Boston, MA","1/1/2020 - 3/31/2020, Daily Average",1321,988,1765
+"Thursday","28","Brookline, MA","885","Downtown Crossing, Boston, MA","1/1/2020 - 3/31/2020, Daily Average",1214,935,1578
+"Friday","28","Brookline, MA","885","Downtown Crossing, Boston, MA","1/1/2020 - 3/31/2020, Daily Average",1336,1013,1763
+"Saturday","28","Brookline, MA","885","Downtown Crossing, Boston, MA","1/1/2020 - 3/31/2020, Daily Average",1200,913,1577
+"Sunday","28","Brookline, MA","885","Downtown Crossing, Boston, MA","1/1/2020 - 3/31/2020, Daily Average",1120,870,1442
